@@ -1,0 +1,24 @@
+{
+  "name": "blocky",
+  "version": "0.0.1",
+  "description": "Line clearing block game engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harryjubb/blocky.git"
+  },
+  "keywords": [
+    "blocks",
+    "game",
+    "engine"
+  ],
+  "author": "Harry Jubb and James Longstaffe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harryjubb/blocky/issues"
+  },
+  "homepage": "https://github.com/harryjubb/blocky#readme"
+}
